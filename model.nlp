@@ -1,0 +1,465 @@
+{
+  "settings": {
+    "languages": [
+      "pt"
+    ],
+    "tag": "nlp",
+    "threshold": 0.5,
+    "autoLoad": true,
+    "autoSave": true,
+    "modelFileName": "model.nlp"
+  },
+  "nluManager": {
+    "settings": {
+      "tag": "nlu-manager"
+    },
+    "locales": [
+      "pt"
+    ],
+    "languageNames": {},
+    "domainManagers": {
+      "pt": {
+        "settings": {
+          "locale": "pt",
+          "tag": "domain-manager-pt",
+          "nluByDomain": {
+            "default": {
+              "className": "NeuralNlu",
+              "settings": {}
+            }
+          },
+          "trainByDomain": false,
+          "useStemDict": true
+        },
+        "stemDict": {
+          "coronavirus": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "covid-19": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "coron": {
+            "intent": "covid.def",
+            "domain": "default"
+          }
+        },
+        "intentDict": {
+          "covid.def": "default"
+        },
+        "sentences": [
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona",
+            "intent": "covid.def"
+          }
+        ],
+        "domains": {
+          "master_domain": {
+            "settings": {
+              "locale": "pt",
+              "tag": "nlu-pt",
+              "keepStopwords": true,
+              "nonefeatureValue": 1,
+              "nonedeltaMultiplier": 1.2,
+              "spellCheck": false,
+              "spellCheckDistance": 1,
+              "filterZeros": true,
+              "log": true
+            },
+            "features": {
+              "coronavirus": 1,
+              "covid-19": 1,
+              "coron": 1
+            },
+            "intents": {
+              "covid.def": 1
+            },
+            "intentFeatures": {
+              "covid.def": [
+                "coronavirus",
+                "covid-19",
+                "coron"
+              ]
+            },
+            "featuresToIntent": {
+              "coronavirus": [
+                "covid.def"
+              ],
+              "covid-19": [
+                "covid.def"
+              ],
+              "coron": [
+                "covid.def"
+              ]
+            },
+            "neuralNetwork": {
+              "features": [
+                "coronavirus",
+                "covid-19",
+                "coron",
+                "nonefeature"
+              ],
+              "intents": [
+                "covid.def",
+                "None"
+              ],
+              "perceptrons": [
+                [
+                  6.195167541503906,
+                  6.194875717163086,
+                  6.1945600509643555,
+                  -5.993877410888672,
+                  6.286403372623658
+                ],
+                [
+                  -1.9795200824737549,
+                  -1.9789665937423706,
+                  -1.9783700704574585,
+                  9.931747436523438,
+                  2.014411576035554
+                ]
+              ],
+              "perceptronSettings": {
+                "locale": "pt",
+                "tag": "nlu-pt",
+                "keepStopwords": true,
+                "nonefeatureValue": 1,
+                "nonedeltaMultiplier": 1.2,
+                "spellCheck": false,
+                "spellCheckDistance": 1,
+                "filterZeros": true,
+                "log": true
+              }
+            }
+          }
+        }
+      }
+    },
+    "intentDomains": {},
+    "extraSentences": [
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ],
+      [
+        "pt",
+        "coronavirus"
+      ],
+      [
+        "pt",
+        "covid-19"
+      ],
+      [
+        "pt",
+        "corona"
+      ]
+    ]
+  },
+  "ner": {
+    "settings": {
+      "tag": "ner",
+      "entityPreffix": "%",
+      "entitySuffix": "%"
+    },
+    "rules": {}
+  },
+  "nlgManager": {
+    "settings": {
+      "tag": "nlg-manager"
+    },
+    "responses": {
+      "pt": {
+        "covid.def": [
+          {
+            "answer": "O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus que nunca havia sido identificado em humanos."
+          }
+        ]
+      }
+    }
+  },
+  "actionManager": {
+    "settings": {
+      "tag": "action-manager"
+    },
+    "actions": {}
+  },
+  "slotManager": {}
+}
