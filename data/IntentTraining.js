@@ -1,312 +1,314 @@
+const ETypeIntent = require('../util/ETypeIntent');
+
 module.exports = [
   {
     language: 'pt',
     phrase: 'coronavirus',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'covid-19',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'corona',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'Me fala sobre o coronavirus',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'O que é o corona?',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'O que acontece com o coronavirus?',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'O que é o covid-19?',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'O que é ter coronavirus?',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'Tenho coronavirus?',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'Me fala sobre o covid-19',
-    intent: 'covid.def'
+    intent: ETypeIntent.COVID_DEFINITION
   },
   {
     language: 'pt',
     phrase: 'Me fala sobre o covid-19',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'quais os sintomas do corona?',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'sintomas do covid-19',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'quais os sintomas do coronavirus?',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'o que a pessoa com corona sente?',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'sintomas',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'sintomas do covid',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'covid sintomas',
-    intent: 'covid.sint'
+    intent: ETypeIntent.COVID_SYMPTOMS
   },
   {
     language: 'pt',
     phrase: 'O que fazer em suspeita de corona?',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'Estou com suspeitas de covid-19',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'Acho que estou com corona, o que devo fazer?',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'corona fazer covid',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'covid-19 o que fazer',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'suspeita corona',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'suspeita',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'olá',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'bom dia',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'oi',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'boa tarde',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'boa noite',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'hello',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'boa tarde, pode me ajudar?',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'Opa, qual seu nome?',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'como vai?',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'olá amigo',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'saudações',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'tudo bem?',
-    intent: 'saudacao'
+    intent: ETypeIntent.CONVERSATION_SAUDACAO
   },
   {
     language: 'pt',
     phrase: 'level',
-    intent: 'level'
+    intent: ETypeIntent.CONVERSATION_LEVEL
   },
   {
     language: 'pt',
     phrase: 'level ao contrário é level',
-    intent: 'level'
+    intent: ETypeIntent.CONVERSATION_LEVEL
   },
   {
     language: 'pt',
     phrase: 'quem criou você',
-    intent: 'criaçao'
+    intent: ETypeIntent.CONVERSATION_CREATION
   },
   {
     language: 'pt',
     phrase: 'de onde você é?',
-    intent: 'criaçao'
+    intent: ETypeIntent.CONVERSATION_CREATION
   },
   {
     language: 'pt',
     phrase: 'de onde você veio?',
-    intent: 'criaçao'
+    intent: ETypeIntent.CONVERSATION_CREATION
   },
   {
     language: 'pt',
     phrase: 'você é de onde?',
-    intent: 'criaçao'
+    intent: ETypeIntent.CONVERSATION_CREATION
   },
   {
     language: 'pt',
     phrase: 'como me prevenir do coronavirus?',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'como não contrair o coronavirus',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'como não contrair o covid-19',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'como não pegar corona?',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'prevenções e profilaxia',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },{
     language: 'pt',
     phrase: 'o que fazer para evitar pegar a doença',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'como previnir',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'quais atitudes devo tomar',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'atitudes',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'o que devo fazer pra não contrair o corona?',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'como não pegar o virus',
-    intent: 'prevencao'
+    intent: ETypeIntent.COVID_PREVENTION
   },
   {
     language: 'pt',
     phrase: 'acho que estou com coronavirus',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'estou com covid',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'estou com suspeita de coronavirus',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'acho que tenho coronavirus',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'possuo covid-19, oque fazer?',
-    intent: 'covid.action'
+    intent: ETypeIntent.COVID_ACTION
   },
   {
     language: 'pt',
     phrase: 'Guilherme',
-    intent: 'paternidade'
+    intent: ETypeIntent.CONVERSATION_DADDY
   },
   {
     language: 'pt',
     phrase: 'Faleiros',
-    intent: 'paternidade'
+    intent: ETypeIntent.CONVERSATION_DADDY
   },
   {
     language: 'pt',
     phrase: 'pai',
-    intent: 'paternidade'
+    intent: ETypeIntent.CONVERSATION_DADDY
   },
 
 

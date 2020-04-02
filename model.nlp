@@ -33,71 +33,71 @@
         },
         "stemDict": {
           "coronavirus": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "covid-19": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "coron": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "coronavirus,fal,me,o,sobr": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "coron,e,o,que": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "acontec,com,coronavirus,o,que": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "covid-19,e,o,que": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "coronavirus,e,o,que,ter": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "coronavirus,tenh": {
-            "intent": "covid.def",
+            "intent": "covid.definition",
             "domain": "default"
           },
           "covid-19,fal,me,o,sobr": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "coron,do,os,qua,sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "covid-19,do,sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "coronavirus,do,os,qua,sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "a,com,coron,o,pesso,que,sent": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "covid,do,sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "covid,sintom": {
-            "intent": "covid.sint",
+            "intent": "covid.symptoms",
             "domain": "default"
           },
           "coron,de,em,faz,o,que,suspeit": {
@@ -129,115 +129,115 @@
             "domain": "default"
           },
           "ola": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "bom,dia": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "oi": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "boa,tard": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "boa,noit": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "hell": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "ajud,boa,me,pod,tard": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "nom,opa,qual,seu": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "com,vai": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "amig,ola": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "saudaco": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "bem,tud": {
-            "intent": "saudacao",
+            "intent": "conversation.saudacao",
             "domain": "default"
           },
           "level": {
-            "intent": "level",
+            "intent": "conversation.level",
             "domain": "default"
           },
           "ao,contrari,e,level": {
-            "intent": "level",
+            "intent": "conversation.level",
             "domain": "default"
           },
           "cri,quem,voc": {
-            "intent": "criaçao",
+            "intent": "conversation.creation",
             "domain": "default"
           },
           "de,e,onde,voc": {
-            "intent": "criaçao",
+            "intent": "conversation.creation",
             "domain": "default"
           },
           "de,onde,vei,voc": {
-            "intent": "criaçao",
+            "intent": "conversation.creation",
             "domain": "default"
           },
           "com,coronavirus,do,me,preven": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "com,contra,coronavirus,nao,o": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "com,contra,covid-19,nao,o": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "com,coron,nao,peg": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "e,prevenco,profilax": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "a,doenc,evit,faz,o,par,peg,que": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "com,previn": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "atitud,dev,qua,tom": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "atitud": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "contra,coron,dev,faz,nao,o,pra,que": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "com,nao,o,peg,virus": {
-            "intent": "prevencao",
+            "intent": "covid.prevention",
             "domain": "default"
           },
           "acho,com,coronavirus,estou,que": {
@@ -261,118 +261,118 @@
             "domain": "default"
           },
           "guilherm": {
-            "intent": "paternidade",
+            "intent": "conversation.daddy",
             "domain": "default"
           },
           "faleir": {
-            "intent": "paternidade",
+            "intent": "conversation.daddy",
             "domain": "default"
           },
           "pai": {
-            "intent": "paternidade",
+            "intent": "conversation.daddy",
             "domain": "default"
           }
         },
         "intentDict": {
-          "covid.def": "default",
-          "covid.sint": "default",
+          "covid.definition": "default",
+          "covid.symptoms": "default",
           "covid.action": "default",
-          "saudacao": "default",
-          "level": "default",
-          "criaçao": "default",
-          "prevencao": "default",
-          "paternidade": "default"
+          "conversation.saudacao": "default",
+          "conversation.level": "default",
+          "conversation.creation": "default",
+          "covid.prevention": "default",
+          "conversation.daddy": "default"
         },
         "sentences": [
           {
             "domain": "default",
             "utterance": "coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "corona",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o corona?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que acontece com o coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o covid-19?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é ter coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Tenho coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do corona?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do coronavirus?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "o que a pessoa com corona sente?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "covid sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
@@ -412,147 +412,147 @@
           {
             "domain": "default",
             "utterance": "olá",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "bom dia",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "oi",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa noite",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "hello",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde, pode me ajudar?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "Opa, qual seu nome?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "como vai?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "olá amigo",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "saudações",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "tudo bem?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "level ao contrário é level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "quem criou você",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você é?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você veio?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "você é de onde?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "como me prevenir do coronavirus?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o coronavirus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o covid-19",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "prevenções e profilaxia",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que fazer para evitar pegar a doença",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como previnir",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "quais atitudes devo tomar",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "atitudes",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que devo fazer pra não contrair o corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar o virus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
@@ -582,107 +582,107 @@
           {
             "domain": "default",
             "utterance": "Guilherme",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "Faleiros",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "pai",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "corona",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o corona?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que acontece com o coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o covid-19?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é ter coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Tenho coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do corona?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do coronavirus?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "o que a pessoa com corona sente?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "covid sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
@@ -722,147 +722,147 @@
           {
             "domain": "default",
             "utterance": "olá",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "bom dia",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "oi",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa noite",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "hello",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde, pode me ajudar?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "Opa, qual seu nome?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "como vai?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "olá amigo",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "saudações",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "tudo bem?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "level ao contrário é level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "quem criou você",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você é?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você veio?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "você é de onde?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "como me prevenir do coronavirus?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o coronavirus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o covid-19",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "prevenções e profilaxia",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que fazer para evitar pegar a doença",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como previnir",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "quais atitudes devo tomar",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "atitudes",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que devo fazer pra não contrair o corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar o virus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
@@ -892,107 +892,107 @@
           {
             "domain": "default",
             "utterance": "Guilherme",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "Faleiros",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "pai",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "corona",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o coronavirus",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o corona?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que acontece com o coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é o covid-19?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "O que é ter coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Tenho coronavirus?",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.def"
+            "intent": "covid.definition"
           },
           {
             "domain": "default",
             "utterance": "Me fala sobre o covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do corona?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid-19",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "quais os sintomas do coronavirus?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "o que a pessoa com corona sente?",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "sintomas do covid",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
             "utterance": "covid sintomas",
-            "intent": "covid.sint"
+            "intent": "covid.symptoms"
           },
           {
             "domain": "default",
@@ -1032,147 +1032,147 @@
           {
             "domain": "default",
             "utterance": "olá",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "bom dia",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "oi",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa noite",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "hello",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "boa tarde, pode me ajudar?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "Opa, qual seu nome?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "como vai?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "olá amigo",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "saudações",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "tudo bem?",
-            "intent": "saudacao"
+            "intent": "conversation.saudacao"
           },
           {
             "domain": "default",
             "utterance": "level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "level ao contrário é level",
-            "intent": "level"
+            "intent": "conversation.level"
           },
           {
             "domain": "default",
             "utterance": "quem criou você",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você é?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "de onde você veio?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "você é de onde?",
-            "intent": "criaçao"
+            "intent": "conversation.creation"
           },
           {
             "domain": "default",
             "utterance": "como me prevenir do coronavirus?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o coronavirus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não contrair o covid-19",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "prevenções e profilaxia",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que fazer para evitar pegar a doença",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como previnir",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "quais atitudes devo tomar",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "atitudes",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "o que devo fazer pra não contrair o corona?",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
             "utterance": "como não pegar o virus",
-            "intent": "prevencao"
+            "intent": "covid.prevention"
           },
           {
             "domain": "default",
@@ -1202,17 +1202,17 @@
           {
             "domain": "default",
             "utterance": "Guilherme",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "Faleiros",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           },
           {
             "domain": "default",
             "utterance": "pai",
-            "intent": "paternidade"
+            "intent": "conversation.daddy"
           }
         ],
         "domains": {
@@ -1305,17 +1305,17 @@
               "pai": 1
             },
             "intents": {
-              "covid.def": 1,
-              "covid.sint": 1,
+              "covid.definition": 1,
+              "covid.symptoms": 1,
               "covid.action": 1,
-              "saudacao": 1,
-              "level": 1,
-              "criaçao": 1,
-              "prevencao": 1,
-              "paternidade": 1
+              "conversation.saudacao": 1,
+              "conversation.level": 1,
+              "conversation.creation": 1,
+              "covid.prevention": 1,
+              "conversation.daddy": 1
             },
             "intentFeatures": {
-              "covid.def": [
+              "covid.definition": [
                 "coronavirus",
                 "covid-19",
                 "coron",
@@ -1330,7 +1330,7 @@
                 "ter",
                 "tenh"
               ],
-              "covid.sint": [
+              "covid.symptoms": [
                 "me",
                 "fal",
                 "sobr",
@@ -1368,7 +1368,7 @@
                 "possu",
                 "oqu"
               ],
-              "saudacao": [
+              "conversation.saudacao": [
                 "ola",
                 "bom",
                 "dia",
@@ -1391,13 +1391,13 @@
                 "tud",
                 "bem"
               ],
-              "level": [
+              "conversation.level": [
                 "level",
                 "ao",
                 "contrari",
                 "e"
               ],
-              "criaçao": [
+              "conversation.creation": [
                 "quem",
                 "cri",
                 "voc",
@@ -1406,7 +1406,7 @@
                 "e",
                 "vei"
               ],
-              "prevencao": [
+              "covid.prevention": [
                 "com",
                 "me",
                 "preven",
@@ -1435,7 +1435,7 @@
                 "pra",
                 "virus"
               ],
-              "paternidade": [
+              "conversation.daddy": [
                 "guilherm",
                 "faleir",
                 "pai"
@@ -1443,103 +1443,103 @@
             },
             "featuresToIntent": {
               "coronavirus": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "covid-19": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "coron": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "me": [
-                "covid.def",
-                "covid.sint",
-                "saudacao",
-                "prevencao"
+                "covid.definition",
+                "covid.symptoms",
+                "conversation.saudacao",
+                "covid.prevention"
               ],
               "fal": [
-                "covid.def",
-                "covid.sint"
+                "covid.definition",
+                "covid.symptoms"
               ],
               "sobr": [
-                "covid.def",
-                "covid.sint"
+                "covid.definition",
+                "covid.symptoms"
               ],
               "o": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "que": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "e": [
-                "covid.def",
-                "level",
-                "criaçao",
-                "prevencao"
+                "covid.definition",
+                "conversation.level",
+                "conversation.creation",
+                "covid.prevention"
               ],
               "acontec": [
-                "covid.def"
+                "covid.definition"
               ],
               "com": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "saudacao",
-                "prevencao"
+                "conversation.saudacao",
+                "covid.prevention"
               ],
               "ter": [
-                "covid.def"
+                "covid.definition"
               ],
               "tenh": [
-                "covid.def",
+                "covid.definition",
                 "covid.action"
               ],
               "qua": [
-                "covid.sint",
-                "prevencao"
+                "covid.symptoms",
+                "covid.prevention"
               ],
               "os": [
-                "covid.sint"
+                "covid.symptoms"
               ],
               "sintom": [
-                "covid.sint"
+                "covid.symptoms"
               ],
               "do": [
-                "covid.sint",
-                "prevencao"
+                "covid.symptoms",
+                "covid.prevention"
               ],
               "a": [
-                "covid.sint",
-                "prevencao"
+                "covid.symptoms",
+                "covid.prevention"
               ],
               "pesso": [
-                "covid.sint"
+                "covid.symptoms"
               ],
               "sent": [
-                "covid.sint"
+                "covid.symptoms"
               ],
               "covid": [
-                "covid.sint",
+                "covid.symptoms",
                 "covid.action"
               ],
               "faz": [
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "em": [
                 "covid.action"
@@ -1549,7 +1549,7 @@
               ],
               "de": [
                 "covid.action",
-                "criaçao"
+                "conversation.creation"
               ],
               "estou": [
                 "covid.action"
@@ -1559,7 +1559,7 @@
               ],
               "dev": [
                 "covid.action",
-                "prevencao"
+                "covid.prevention"
               ],
               "possu": [
                 "covid.action"
@@ -1568,136 +1568,136 @@
                 "covid.action"
               ],
               "ola": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "bom": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "dia": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "oi": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "boa": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "tard": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "noit": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "hell": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "pod": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "ajud": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "opa": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "qual": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "seu": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "nom": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "vai": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "amig": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "saudaco": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "tud": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "bem": [
-                "saudacao"
+                "conversation.saudacao"
               ],
               "level": [
-                "level"
+                "conversation.level"
               ],
               "ao": [
-                "level"
+                "conversation.level"
               ],
               "contrari": [
-                "level"
+                "conversation.level"
               ],
               "quem": [
-                "criaçao"
+                "conversation.creation"
               ],
               "cri": [
-                "criaçao"
+                "conversation.creation"
               ],
               "voc": [
-                "criaçao"
+                "conversation.creation"
               ],
               "onde": [
-                "criaçao"
+                "conversation.creation"
               ],
               "vei": [
-                "criaçao"
+                "conversation.creation"
               ],
               "preven": [
-                "prevencao"
+                "covid.prevention"
               ],
               "nao": [
-                "prevencao"
+                "covid.prevention"
               ],
               "contra": [
-                "prevencao"
+                "covid.prevention"
               ],
               "peg": [
-                "prevencao"
+                "covid.prevention"
               ],
               "prevenco": [
-                "prevencao"
+                "covid.prevention"
               ],
               "profilax": [
-                "prevencao"
+                "covid.prevention"
               ],
               "par": [
-                "prevencao"
+                "covid.prevention"
               ],
               "evit": [
-                "prevencao"
+                "covid.prevention"
               ],
               "doenc": [
-                "prevencao"
+                "covid.prevention"
               ],
               "previn": [
-                "prevencao"
+                "covid.prevention"
               ],
               "atitud": [
-                "prevencao"
+                "covid.prevention"
               ],
               "tom": [
-                "prevencao"
+                "covid.prevention"
               ],
               "pra": [
-                "prevencao"
+                "covid.prevention"
               ],
               "virus": [
-                "prevencao"
+                "covid.prevention"
               ],
               "guilherm": [
-                "paternidade"
+                "conversation.daddy"
               ],
               "faleir": [
-                "paternidade"
+                "conversation.daddy"
               ],
               "pai": [
-                "paternidade"
+                "conversation.daddy"
               ]
             },
             "neuralNetwork": {
@@ -1779,14 +1779,14 @@
                 "nonefeature"
               ],
               "intents": [
-                "covid.def",
-                "covid.sint",
+                "covid.definition",
+                "covid.symptoms",
                 "covid.action",
-                "saudacao",
-                "level",
-                "criaçao",
-                "prevencao",
-                "paternidade",
+                "conversation.saudacao",
+                "conversation.level",
+                "conversation.creation",
+                "covid.prevention",
+                "conversation.daddy",
                 "None"
               ],
               "perceptrons": [
@@ -3271,12 +3271,12 @@
     },
     "responses": {
       "pt": {
-        "covid.def": [
+        "covid.definition": [
           {
             "answer": "O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus que nunca havia sido identificado em humanos."
           }
         ],
-        "covid.sint": [
+        "covid.symptoms": [
           {
             "answer": "Dor de garganta, tosse, febre e dificuldade para respirar (em casos graves)"
           }
@@ -3286,27 +3286,27 @@
             "answer": "Assim que os primeiros sintomas surgirem, é fundamental procurar ajuda médica imediata para confirmar diagnóstico e iniciar o tratamento. Por enquanto, não existe um tratamento específico para infecções causadas por coronavírus. O Ministério da Saúde indicado repouso e consumo de bastante água, além de algumas medidas adotadas para aliviar os sintomas, com antitérmicos e analgésicos."
           }
         ],
-        "saudacao": [
+        "conversation.saudacao": [
           {
             "answer": "Olá, eu sou o Tróia! Sou o bot criado pela Level 5 para ajudar você contra o covid-19!"
           }
         ],
-        "level": [
+        "conversation.level": [
           {
             "answer": "Você disse Level? Level ao contrário é Level, sabia?"
           }
         ],
-        "criaçao": [
+        "conversation.creation": [
           {
             "answer": "Eu fui criado pelo time de Pesquisa e Desenvolvimento da Level 5!"
           }
         ],
-        "prevencao": [
+        "covid.prevention": [
           {
             "answer": "Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e boca ao espirrar ou tossir e evite aglomerações se estiver doente."
           }
         ],
-        "paternidade": [
+        "conversation.daddy": [
           {
             "answer": "Guilherme Faleiros é meu papai"
           }
