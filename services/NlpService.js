@@ -10,8 +10,6 @@ class NlpService{
     this.manager = this.InstanceManager();
   }
   
- 
-
   addIntent(language, phrase, intent){
     this.manager.addDocument(language, phrase, intent);
   }

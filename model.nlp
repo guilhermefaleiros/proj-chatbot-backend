@@ -43,10 +43,245 @@
           "coron": {
             "intent": "covid.def",
             "domain": "default"
+          },
+          "coronavirus,fal,me,o,sobr": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "coron,e,o,que": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "acontec,com,coronavirus,o,que": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "covid-19,e,o,que": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "coronavirus,e,o,que,ter": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "coronavirus,tenh": {
+            "intent": "covid.def",
+            "domain": "default"
+          },
+          "covid-19,fal,me,o,sobr": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "coron,do,os,qua,sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "covid-19,do,sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "coronavirus,do,os,qua,sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "a,com,coron,o,pesso,que,sent": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "covid,do,sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "covid,sintom": {
+            "intent": "covid.sint",
+            "domain": "default"
+          },
+          "coron,de,em,faz,o,que,suspeit": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "com,covid-19,de,estou,suspeit": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "acho,com,coron,dev,estou,faz,o,que": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "coron,covid,faz": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "covid-19,faz,o,que": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "coron,suspeit": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "suspeit": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "ola": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "bom,dia": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "oi": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "boa,tard": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "boa,noit": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "hell": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "ajud,boa,me,pod,tard": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "nom,opa,qual,seu": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "com,vai": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "amig,ola": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "saudaco": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "bem,tud": {
+            "intent": "saudacao",
+            "domain": "default"
+          },
+          "level": {
+            "intent": "level",
+            "domain": "default"
+          },
+          "ao,contrari,e,level": {
+            "intent": "level",
+            "domain": "default"
+          },
+          "cri,quem,voc": {
+            "intent": "criaçao",
+            "domain": "default"
+          },
+          "de,e,onde,voc": {
+            "intent": "criaçao",
+            "domain": "default"
+          },
+          "de,onde,vei,voc": {
+            "intent": "criaçao",
+            "domain": "default"
+          },
+          "com,coronavirus,do,me,preven": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "com,contra,coronavirus,nao,o": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "com,contra,covid-19,nao,o": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "com,coron,nao,peg": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "e,prevenco,profilax": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "a,doenc,evit,faz,o,par,peg,que": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "com,previn": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "atitud,dev,qua,tom": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "atitud": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "contra,coron,dev,faz,nao,o,pra,que": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "com,nao,o,peg,virus": {
+            "intent": "prevencao",
+            "domain": "default"
+          },
+          "acho,com,coronavirus,estou,que": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "com,covid,estou": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "com,coronavirus,de,estou,suspeit": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "acho,coronavirus,que,tenh": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "covid-19,faz,oqu,possu": {
+            "intent": "covid.action",
+            "domain": "default"
+          },
+          "guilherm": {
+            "intent": "paternidade",
+            "domain": "default"
+          },
+          "faleir": {
+            "intent": "paternidade",
+            "domain": "default"
+          },
+          "pai": {
+            "intent": "paternidade",
+            "domain": "default"
           }
         },
         "intentDict": {
-          "covid.def": "default"
+          "covid.def": "default",
+          "covid.sint": "default",
+          "covid.action": "default",
+          "saudacao": "default",
+          "level": "default",
+          "criaçao": "default",
+          "prevencao": "default",
+          "paternidade": "default"
         },
         "sentences": [
           {
@@ -66,6 +301,301 @@
           },
           {
             "domain": "default",
+            "utterance": "Me fala sobre o coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é o corona?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que acontece com o coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é o covid-19?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é ter coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Tenho coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Me fala sobre o covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Me fala sobre o covid-19",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais os sintomas do corona?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas do covid-19",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais os sintomas do coronavirus?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que a pessoa com corona sente?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas do covid",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid sintomas",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que fazer em suspeita de corona?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Estou com suspeitas de covid-19",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Acho que estou com corona, o que devo fazer?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona fazer covid",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19 o que fazer",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "suspeita corona",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "suspeita",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "olá",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "bom dia",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "oi",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa noite",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "hello",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde, pode me ajudar?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "Opa, qual seu nome?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como vai?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "olá amigo",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "saudações",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "tudo bem?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "level ao contrário é level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "quem criou você",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você é?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você veio?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "você é de onde?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como me prevenir do coronavirus?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o coronavirus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o covid-19",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "prevenções e profilaxia",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que fazer para evitar pegar a doença",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como previnir",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais atitudes devo tomar",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "atitudes",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que devo fazer pra não contrair o corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar o virus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que estou com coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com covid",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com suspeita de coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que tenho coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "possuo covid-19, oque fazer?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Guilherme",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "Faleiros",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "pai",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
             "utterance": "coronavirus",
             "intent": "covid.def"
           },
@@ -81,6 +611,301 @@
           },
           {
             "domain": "default",
+            "utterance": "Me fala sobre o coronavirus",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é o corona?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que acontece com o coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é o covid-19?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que é ter coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Tenho coronavirus?",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Me fala sobre o covid-19",
+            "intent": "covid.def"
+          },
+          {
+            "domain": "default",
+            "utterance": "Me fala sobre o covid-19",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais os sintomas do corona?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas do covid-19",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais os sintomas do coronavirus?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que a pessoa com corona sente?",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "sintomas do covid",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid sintomas",
+            "intent": "covid.sint"
+          },
+          {
+            "domain": "default",
+            "utterance": "O que fazer em suspeita de corona?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Estou com suspeitas de covid-19",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Acho que estou com corona, o que devo fazer?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "corona fazer covid",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "covid-19 o que fazer",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "suspeita corona",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "suspeita",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "olá",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "bom dia",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "oi",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa noite",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "hello",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde, pode me ajudar?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "Opa, qual seu nome?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como vai?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "olá amigo",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "saudações",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "tudo bem?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "level ao contrário é level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "quem criou você",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você é?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você veio?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "você é de onde?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como me prevenir do coronavirus?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o coronavirus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o covid-19",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "prevenções e profilaxia",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que fazer para evitar pegar a doença",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como previnir",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais atitudes devo tomar",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "atitudes",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que devo fazer pra não contrair o corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar o virus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que estou com coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com covid",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com suspeita de coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que tenho coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "possuo covid-19, oque fazer?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Guilherme",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "Faleiros",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "pai",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
             "utterance": "coronavirus",
             "intent": "covid.def"
           },
@@ -96,123 +921,298 @@
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
+            "utterance": "Me fala sobre o coronavirus",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
+            "utterance": "O que é o corona?",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "corona",
+            "utterance": "O que acontece com o coronavirus?",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
+            "utterance": "O que é o covid-19?",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
+            "utterance": "O que é ter coronavirus?",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "corona",
+            "utterance": "Tenho coronavirus?",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
+            "utterance": "Me fala sobre o covid-19",
             "intent": "covid.def"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "Me fala sobre o covid-19",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "quais os sintomas do corona?",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
-            "intent": "covid.def"
+            "utterance": "sintomas do covid-19",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "quais os sintomas do coronavirus?",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "o que a pessoa com corona sente?",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
-            "intent": "covid.def"
+            "utterance": "sintomas",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "sintomas do covid",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "covid sintomas",
+            "intent": "covid.sint"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
-            "intent": "covid.def"
+            "utterance": "O que fazer em suspeita de corona?",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "Estou com suspeitas de covid-19",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "Acho que estou com corona, o que devo fazer?",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
-            "intent": "covid.def"
+            "utterance": "corona fazer covid",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "covid-19 o que fazer",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "suspeita corona",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "coronavirus",
-            "intent": "covid.def"
+            "utterance": "suspeita",
+            "intent": "covid.action"
           },
           {
             "domain": "default",
-            "utterance": "covid-19",
-            "intent": "covid.def"
+            "utterance": "olá",
+            "intent": "saudacao"
           },
           {
             "domain": "default",
-            "utterance": "corona",
-            "intent": "covid.def"
+            "utterance": "bom dia",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "oi",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa noite",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "hello",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "boa tarde, pode me ajudar?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "Opa, qual seu nome?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como vai?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "olá amigo",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "saudações",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "tudo bem?",
+            "intent": "saudacao"
+          },
+          {
+            "domain": "default",
+            "utterance": "level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "level ao contrário é level",
+            "intent": "level"
+          },
+          {
+            "domain": "default",
+            "utterance": "quem criou você",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você é?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "de onde você veio?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "você é de onde?",
+            "intent": "criaçao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como me prevenir do coronavirus?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o coronavirus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não contrair o covid-19",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "prevenções e profilaxia",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que fazer para evitar pegar a doença",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como previnir",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "quais atitudes devo tomar",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "atitudes",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "o que devo fazer pra não contrair o corona?",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "como não pegar o virus",
+            "intent": "prevencao"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que estou com coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com covid",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "estou com suspeita de coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "acho que tenho coronavirus",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "possuo covid-19, oque fazer?",
+            "intent": "covid.action"
+          },
+          {
+            "domain": "default",
+            "utterance": "Guilherme",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "Faleiros",
+            "intent": "paternidade"
+          },
+          {
+            "domain": "default",
+            "utterance": "pai",
+            "intent": "paternidade"
           }
         ],
         "domains": {
@@ -231,27 +1231,473 @@
             "features": {
               "coronavirus": 1,
               "covid-19": 1,
-              "coron": 1
+              "coron": 1,
+              "me": 1,
+              "fal": 1,
+              "sobr": 1,
+              "o": 1,
+              "que": 1,
+              "e": 1,
+              "acontec": 1,
+              "com": 1,
+              "ter": 1,
+              "tenh": 1,
+              "qua": 1,
+              "os": 1,
+              "sintom": 1,
+              "do": 1,
+              "a": 1,
+              "pesso": 1,
+              "sent": 1,
+              "covid": 1,
+              "faz": 1,
+              "em": 1,
+              "suspeit": 1,
+              "de": 1,
+              "estou": 1,
+              "acho": 1,
+              "dev": 1,
+              "ola": 1,
+              "bom": 1,
+              "dia": 1,
+              "oi": 1,
+              "boa": 1,
+              "tard": 1,
+              "noit": 1,
+              "hell": 1,
+              "pod": 1,
+              "ajud": 1,
+              "opa": 1,
+              "qual": 1,
+              "seu": 1,
+              "nom": 1,
+              "vai": 1,
+              "amig": 1,
+              "saudaco": 1,
+              "tud": 1,
+              "bem": 1,
+              "level": 1,
+              "ao": 1,
+              "contrari": 1,
+              "quem": 1,
+              "cri": 1,
+              "voc": 1,
+              "onde": 1,
+              "vei": 1,
+              "preven": 1,
+              "nao": 1,
+              "contra": 1,
+              "peg": 1,
+              "prevenco": 1,
+              "profilax": 1,
+              "par": 1,
+              "evit": 1,
+              "doenc": 1,
+              "previn": 1,
+              "atitud": 1,
+              "tom": 1,
+              "pra": 1,
+              "virus": 1,
+              "possu": 1,
+              "oqu": 1,
+              "guilherm": 1,
+              "faleir": 1,
+              "pai": 1
             },
             "intents": {
-              "covid.def": 1
+              "covid.def": 1,
+              "covid.sint": 1,
+              "covid.action": 1,
+              "saudacao": 1,
+              "level": 1,
+              "criaçao": 1,
+              "prevencao": 1,
+              "paternidade": 1
             },
             "intentFeatures": {
               "covid.def": [
                 "coronavirus",
                 "covid-19",
-                "coron"
+                "coron",
+                "me",
+                "fal",
+                "sobr",
+                "o",
+                "que",
+                "e",
+                "acontec",
+                "com",
+                "ter",
+                "tenh"
+              ],
+              "covid.sint": [
+                "me",
+                "fal",
+                "sobr",
+                "o",
+                "covid-19",
+                "qua",
+                "os",
+                "sintom",
+                "do",
+                "coron",
+                "coronavirus",
+                "que",
+                "a",
+                "pesso",
+                "com",
+                "sent",
+                "covid"
+              ],
+              "covid.action": [
+                "o",
+                "que",
+                "faz",
+                "em",
+                "suspeit",
+                "de",
+                "coron",
+                "estou",
+                "com",
+                "covid-19",
+                "acho",
+                "dev",
+                "covid",
+                "coronavirus",
+                "tenh",
+                "possu",
+                "oqu"
+              ],
+              "saudacao": [
+                "ola",
+                "bom",
+                "dia",
+                "oi",
+                "boa",
+                "tard",
+                "noit",
+                "hell",
+                "pod",
+                "me",
+                "ajud",
+                "opa",
+                "qual",
+                "seu",
+                "nom",
+                "com",
+                "vai",
+                "amig",
+                "saudaco",
+                "tud",
+                "bem"
+              ],
+              "level": [
+                "level",
+                "ao",
+                "contrari",
+                "e"
+              ],
+              "criaçao": [
+                "quem",
+                "cri",
+                "voc",
+                "de",
+                "onde",
+                "e",
+                "vei"
+              ],
+              "prevencao": [
+                "com",
+                "me",
+                "preven",
+                "do",
+                "coronavirus",
+                "nao",
+                "contra",
+                "o",
+                "covid-19",
+                "peg",
+                "coron",
+                "prevenco",
+                "e",
+                "profilax",
+                "que",
+                "faz",
+                "par",
+                "evit",
+                "a",
+                "doenc",
+                "previn",
+                "qua",
+                "atitud",
+                "dev",
+                "tom",
+                "pra",
+                "virus"
+              ],
+              "paternidade": [
+                "guilherm",
+                "faleir",
+                "pai"
               ]
             },
             "featuresToIntent": {
               "coronavirus": [
-                "covid.def"
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "prevencao"
               ],
               "covid-19": [
-                "covid.def"
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "prevencao"
               ],
               "coron": [
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "prevencao"
+              ],
+              "me": [
+                "covid.def",
+                "covid.sint",
+                "saudacao",
+                "prevencao"
+              ],
+              "fal": [
+                "covid.def",
+                "covid.sint"
+              ],
+              "sobr": [
+                "covid.def",
+                "covid.sint"
+              ],
+              "o": [
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "prevencao"
+              ],
+              "que": [
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "prevencao"
+              ],
+              "e": [
+                "covid.def",
+                "level",
+                "criaçao",
+                "prevencao"
+              ],
+              "acontec": [
                 "covid.def"
+              ],
+              "com": [
+                "covid.def",
+                "covid.sint",
+                "covid.action",
+                "saudacao",
+                "prevencao"
+              ],
+              "ter": [
+                "covid.def"
+              ],
+              "tenh": [
+                "covid.def",
+                "covid.action"
+              ],
+              "qua": [
+                "covid.sint",
+                "prevencao"
+              ],
+              "os": [
+                "covid.sint"
+              ],
+              "sintom": [
+                "covid.sint"
+              ],
+              "do": [
+                "covid.sint",
+                "prevencao"
+              ],
+              "a": [
+                "covid.sint",
+                "prevencao"
+              ],
+              "pesso": [
+                "covid.sint"
+              ],
+              "sent": [
+                "covid.sint"
+              ],
+              "covid": [
+                "covid.sint",
+                "covid.action"
+              ],
+              "faz": [
+                "covid.action",
+                "prevencao"
+              ],
+              "em": [
+                "covid.action"
+              ],
+              "suspeit": [
+                "covid.action"
+              ],
+              "de": [
+                "covid.action",
+                "criaçao"
+              ],
+              "estou": [
+                "covid.action"
+              ],
+              "acho": [
+                "covid.action"
+              ],
+              "dev": [
+                "covid.action",
+                "prevencao"
+              ],
+              "possu": [
+                "covid.action"
+              ],
+              "oqu": [
+                "covid.action"
+              ],
+              "ola": [
+                "saudacao"
+              ],
+              "bom": [
+                "saudacao"
+              ],
+              "dia": [
+                "saudacao"
+              ],
+              "oi": [
+                "saudacao"
+              ],
+              "boa": [
+                "saudacao"
+              ],
+              "tard": [
+                "saudacao"
+              ],
+              "noit": [
+                "saudacao"
+              ],
+              "hell": [
+                "saudacao"
+              ],
+              "pod": [
+                "saudacao"
+              ],
+              "ajud": [
+                "saudacao"
+              ],
+              "opa": [
+                "saudacao"
+              ],
+              "qual": [
+                "saudacao"
+              ],
+              "seu": [
+                "saudacao"
+              ],
+              "nom": [
+                "saudacao"
+              ],
+              "vai": [
+                "saudacao"
+              ],
+              "amig": [
+                "saudacao"
+              ],
+              "saudaco": [
+                "saudacao"
+              ],
+              "tud": [
+                "saudacao"
+              ],
+              "bem": [
+                "saudacao"
+              ],
+              "level": [
+                "level"
+              ],
+              "ao": [
+                "level"
+              ],
+              "contrari": [
+                "level"
+              ],
+              "quem": [
+                "criaçao"
+              ],
+              "cri": [
+                "criaçao"
+              ],
+              "voc": [
+                "criaçao"
+              ],
+              "onde": [
+                "criaçao"
+              ],
+              "vei": [
+                "criaçao"
+              ],
+              "preven": [
+                "prevencao"
+              ],
+              "nao": [
+                "prevencao"
+              ],
+              "contra": [
+                "prevencao"
+              ],
+              "peg": [
+                "prevencao"
+              ],
+              "prevenco": [
+                "prevencao"
+              ],
+              "profilax": [
+                "prevencao"
+              ],
+              "par": [
+                "prevencao"
+              ],
+              "evit": [
+                "prevencao"
+              ],
+              "doenc": [
+                "prevencao"
+              ],
+              "previn": [
+                "prevencao"
+              ],
+              "atitud": [
+                "prevencao"
+              ],
+              "tom": [
+                "prevencao"
+              ],
+              "pra": [
+                "prevencao"
+              ],
+              "virus": [
+                "prevencao"
+              ],
+              "guilherm": [
+                "paternidade"
+              ],
+              "faleir": [
+                "paternidade"
+              ],
+              "pai": [
+                "paternidade"
               ]
             },
             "neuralNetwork": {
@@ -259,26 +1705,792 @@
                 "coronavirus",
                 "covid-19",
                 "coron",
+                "me",
+                "fal",
+                "sobr",
+                "o",
+                "que",
+                "e",
+                "acontec",
+                "com",
+                "ter",
+                "tenh",
+                "qua",
+                "os",
+                "sintom",
+                "do",
+                "a",
+                "pesso",
+                "sent",
+                "covid",
+                "faz",
+                "em",
+                "suspeit",
+                "de",
+                "estou",
+                "acho",
+                "dev",
+                "ola",
+                "bom",
+                "dia",
+                "oi",
+                "boa",
+                "tard",
+                "noit",
+                "hell",
+                "pod",
+                "ajud",
+                "opa",
+                "qual",
+                "seu",
+                "nom",
+                "vai",
+                "amig",
+                "saudaco",
+                "tud",
+                "bem",
+                "level",
+                "ao",
+                "contrari",
+                "quem",
+                "cri",
+                "voc",
+                "onde",
+                "vei",
+                "preven",
+                "nao",
+                "contra",
+                "peg",
+                "prevenco",
+                "profilax",
+                "par",
+                "evit",
+                "doenc",
+                "previn",
+                "atitud",
+                "tom",
+                "pra",
+                "virus",
+                "possu",
+                "oqu",
+                "guilherm",
+                "faleir",
+                "pai",
                 "nonefeature"
               ],
               "intents": [
                 "covid.def",
+                "covid.sint",
+                "covid.action",
+                "saudacao",
+                "level",
+                "criaçao",
+                "prevencao",
+                "paternidade",
                 "None"
               ],
               "perceptrons": [
                 [
-                  6.195167541503906,
-                  6.194875717163086,
-                  6.1945600509643555,
-                  -5.993877410888672,
-                  6.286403372623658
+                  13.375842094421387,
+                  8.510156631469727,
+                  9.893760681152344,
+                  -2.8502047061920166,
+                  -1.4397392272949219,
+                  -1.4397392272949219,
+                  0.34864774346351624,
+                  -2.671994686126709,
+                  3.268632650375366,
+                  4.68817138671875,
+                  -5.406389236450195,
+                  -4.1229166984558105,
+                  -2.9715664386749268,
+                  -2.379450798034668,
+                  -2.379450798034668,
+                  -4.854939937591553,
+                  -5.912181854248047,
+                  -1.9705361127853394,
+                  -1.9705361127853394,
+                  -1.9705361127853394,
+                  -3.048905372619629,
+                  -8.798286437988281,
+                  -1.1603986024856567,
+                  -11.83714485168457,
+                  -2.526437759399414,
+                  -1.1690670251846313,
+                  -9.747910499572754,
+                  -0.5046401619911194,
+                  -1.9528241157531738,
+                  -0.9766169786453247,
+                  -0.9766169786453247,
+                  -1.9527630805969238,
+                  -1.3021899461746216,
+                  -0.6511334180831909,
+                  -0.651057243347168,
+                  -1.952697992324829,
+                  -0.07050367444753647,
+                  -0.07050367444753647,
+                  -0.4883217215538025,
+                  -0.4883217215538025,
+                  -0.4883217215538025,
+                  -0.4883217215538025,
+                  -0.004834210965782404,
+                  -0.3543715476989746,
+                  -1.9526407718658447,
+                  -0.9765150547027588,
+                  -0.9765150547027588,
+                  -1.9960641860961914,
+                  -1.6609394550323486,
+                  -1.6609394550323486,
+                  -0.22162319719791412,
+                  -0.22162319719791412,
+                  -1.5098768472671509,
+                  -1.2882554531097412,
+                  0,
+                  -1.3399590253829956,
+                  -5.610142707824707,
+                  -4.782908916473389,
+                  -0.8272453546524048,
+                  -2.6549222469329834,
+                  -2.6549222469329834,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -1.9521211385726929,
+                  0,
+                  0,
+                  0,
+                  -0.8322597742080688,
+                  -0.8322597742080688,
+                  -1.9519683122634888,
+                  -1.9518823623657227,
+                  -1.9517841339111328,
+                  -1.91727876663208,
+                  1.950717322002764
                 ],
                 [
-                  -1.9795200824737549,
-                  -1.9789665937423706,
-                  -1.9783700704574585,
-                  9.931747436523438,
-                  2.014411576035554
+                  -5.92933988571167,
+                  1.1982221603393555,
+                  -5.7464070320129395,
+                  0.8983631730079651,
+                  2.4115829467773438,
+                  2.4115829467773438,
+                  1.7196000814437866,
+                  0.6072742938995361,
+                  -2.2470078468322754,
+                  0,
+                  1.076310634613037,
+                  0,
+                  -0.024844864383339882,
+                  3.1308863162994385,
+                  3.534792423248291,
+                  13.498618125915527,
+                  -0.5223180055618286,
+                  4.997218132019043,
+                  5.568047046661377,
+                  5.568047046661377,
+                  0.5303245782852173,
+                  -3.6354820728302,
+                  -0.8507101535797119,
+                  -1.6803054809570312,
+                  -1.3118771314620972,
+                  -1.3436375856399536,
+                  -0.6129599213600159,
+                  -1.0168663263320923,
+                  -0.5745078325271606,
+                  -0.3464476764202118,
+                  -0.3464476764202118,
+                  -0.42785993218421936,
+                  -0.6127210259437561,
+                  -0.3784599006175995,
+                  -0.23426121473312378,
+                  -0.3944118916988373,
+                  -0.14600330591201782,
+                  -0.14600330591201782,
+                  -0.20805630087852478,
+                  -0.20805630087852478,
+                  -0.20805630087852478,
+                  -0.20805630087852478,
+                  -0.33877238631248474,
+                  -0.1692432165145874,
+                  -0.3515113890171051,
+                  -0.25569459795951843,
+                  -0.25569459795951843,
+                  -0.3989494740962982,
+                  -0.12110195308923721,
+                  -0.12110195308923721,
+                  -0.1940263956785202,
+                  -0.1940263956785202,
+                  -0.1940263956785202,
+                  0,
+                  0,
+                  -1.3672168254852295,
+                  -1.4421133995056152,
+                  -1.2992562055587769,
+                  -0.7136949896812439,
+                  -0.05702582746744156,
+                  -0.05702582746744156,
+                  -0.5708379745483398,
+                  -0.5708379745483398,
+                  -0.5708379745483398,
+                  0,
+                  -0.44345057010650635,
+                  -0.40390604734420776,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.1878795325756073,
+                  -0.1815921813249588,
+                  -0.175645649433136,
+                  -0.07986263185739517,
+                  -1.2592253468705157
+                ],
+                [
+                  -0.9524309635162354,
+                  0.09878204762935638,
+                  -1.6171879768371582,
+                  -0.6583670377731323,
+                  -0.11557469516992569,
+                  -0.11557469516992569,
+                  -1.544961929321289,
+                  7.538023948669434,
+                  -4.896416187286377,
+                  -2.941931962966919,
+                  -0.9060028195381165,
+                  0,
+                  2.8714118003845215,
+                  -0.23240163922309875,
+                  -0.10631264001131058,
+                  -7.555933475494385,
+                  -1.8169713020324707,
+                  -2.5487372875213623,
+                  -0.33070769906044006,
+                  -0.33070769906044006,
+                  8.70612907409668,
+                  7.200006484985352,
+                  -7.323633193969727,
+                  14.553808212280273,
+                  -4.931706428527832,
+                  5.514651775360107,
+                  3.6102752685546875,
+                  -5.917825222015381,
+                  -0.6198319792747498,
+                  -0.38346606492996216,
+                  -0.38346606492996216,
+                  -0.4729648530483246,
+                  -0.7203420400619507,
+                  -0.4504443109035492,
+                  -0.2698976993560791,
+                  -0.44045743346214294,
+                  -0.16426721215248108,
+                  -0.16426721215248108,
+                  -0.24531395733356476,
+                  -0.24531395733356476,
+                  -0.24531395733356476,
+                  -0.24531395733356476,
+                  -0.7714141607284546,
+                  -0.17658354341983795,
+                  -0.3971383571624756,
+                  -0.2644606828689575,
+                  -0.2644606828689575,
+                  -0.43922361731529236,
+                  -0.14477404952049255,
+                  -0.14477404952049255,
+                  -0.14579445123672485,
+                  -0.14579445123672485,
+                  -0.8735556602478027,
+                  -0.7277612686157227,
+                  -0.33092862367630005,
+                  -0.3785252273082733,
+                  -3.1846795082092285,
+                  -2.5937588214874268,
+                  -2.8089489936828613,
+                  0,
+                  0,
+                  -2.2180306911468506,
+                  -2.2180306911468506,
+                  -2.2180306911468506,
+                  -0.3275752663612366,
+                  -0.33811211585998535,
+                  -0.12608899176120758,
+                  -1.5141890048980713,
+                  0,
+                  3.0958762168884277,
+                  3.0958762168884277,
+                  -0.5878177285194397,
+                  -0.577294111251831,
+                  -0.5675944089889526,
+                  -0.3450908064842224,
+                  -1.0666219526965506
+                ],
+                [
+                  -3.881838321685791,
+                  -3.874997138977051,
+                  -3.8726606369018555,
+                  -0.6400648355484009,
+                  -0.04502581059932709,
+                  -0.04502581059932709,
+                  -1.3545438051223755,
+                  -0.8380450010299683,
+                  -2.43400502204895,
+                  0,
+                  0.1741780936717987,
+                  0,
+                  -0.6716719269752502,
+                  -0.8940209746360779,
+                  -0.03576728329062462,
+                  -3.870051145553589,
+                  -1.1087329387664795,
+                  -0.35216599702835083,
+                  0,
+                  0,
+                  -2.3048782348632812,
+                  -1.0565239191055298,
+                  0,
+                  -3.867993116378784,
+                  -1.1639516353607178,
+                  -1.7396823167800903,
+                  -0.4858790338039398,
+                  -0.8582536578178406,
+                  8.637932777404785,
+                  4.322504997253418,
+                  4.322504997253418,
+                  8.644439697265625,
+                  5.763308525085449,
+                  2.8816463947296143,
+                  2.881659507751465,
+                  8.64432144165039,
+                  0.3200415372848511,
+                  0.3200415372848511,
+                  2.1612484455108643,
+                  2.1612484455108643,
+                  2.1612484455108643,
+                  2.1612484455108643,
+                  8.470662117004395,
+                  0.010763716883957386,
+                  8.644571304321289,
+                  4.3225250244140625,
+                  4.3225250244140625,
+                  -4.014904022216797,
+                  -0.7208555936813354,
+                  -0.7208555936813354,
+                  -1.194176197052002,
+                  -1.194176197052002,
+                  -2.3581275939941406,
+                  -1.1639516353607178,
+                  -0.5439797639846802,
+                  -0.9150810837745667,
+                  -1.6050580739974976,
+                  -0.9122236967086792,
+                  -1.0450005531311035,
+                  -1.0931779146194458,
+                  -1.0931779146194458,
+                  -0.35216599702835083,
+                  -0.35216599702835083,
+                  -0.35216599702835083,
+                  -4.036701679229736,
+                  -3.934843063354492,
+                  -0.8582536578178406,
+                  0,
+                  -0.04512910544872284,
+                  -0.6725637316703796,
+                  -0.6725637316703796,
+                  -3.899519681930542,
+                  -3.8931827545166016,
+                  -3.8883466720581055,
+                  -3.827627182006836,
+                  3.8533624786078673
+                ],
+                [
+                  -0.574956476688385,
+                  -0.5747801065444946,
+                  -0.5746328830718994,
+                  -0.10322892665863037,
+                  0,
+                  0,
+                  -0.5645250678062439,
+                  -0.5108174681663513,
+                  -1.099181056022644,
+                  0,
+                  -0.5163753628730774,
+                  -0.077090784907341,
+                  -0.07751277834177017,
+                  -0.12968923151493073,
+                  0,
+                  -0.5744007229804993,
+                  -0.13071556389331818,
+                  -0.0282755084335804,
+                  0,
+                  0,
+                  -0.18572589755058289,
+                  -0.11809901148080826,
+                  0,
+                  -0.5742047429084778,
+                  -0.5752232670783997,
+                  -0.06555000692605972,
+                  -0.032762110233306885,
+                  -0.12968923151493073,
+                  -0.5740953683853149,
+                  -0.28746071457862854,
+                  -0.28746071457862854,
+                  -0.5739157199859619,
+                  -0.3832796812057495,
+                  -0.1917710155248642,
+                  -0.19150874018669128,
+                  -0.5737676620483398,
+                  -0.00850264448672533,
+                  -0.00850264448672533,
+                  -0.14369216561317444,
+                  -0.14369216561317444,
+                  -0.14369216561317444,
+                  -0.14369216561317444,
+                  -0.05809267237782478,
+                  -0.09484803676605225,
+                  -0.573618471622467,
+                  -0.2871427834033966,
+                  -0.2871427834033966,
+                  11.928709983825684,
+                  0.5499670505523682,
+                  0.5499670505523682,
+                  -0.1289629489183426,
+                  -0.1289629489183426,
+                  -0.7041862607002258,
+                  -0.5752232670783997,
+                  -0.029398690909147263,
+                  -0.09472628682851791,
+                  -0.15369431674480438,
+                  -0.08646969497203827,
+                  -0.09550012648105621,
+                  -0.6535436511039734,
+                  -0.6535436511039734,
+                  -0.0282755084335804,
+                  -0.0282755084335804,
+                  -0.0282755084335804,
+                  -0.14431338012218475,
+                  -0.5774292945861816,
+                  -0.12968923151493073,
+                  0,
+                  0,
+                  -0.08982349932193756,
+                  -0.08982349932193756,
+                  -0.5766879916191101,
+                  -0.576388418674469,
+                  -0.5761233568191528,
+                  -0.5672643780708313,
+                  0.5704944072419343
+                ],
+                [
+                  -0.7840999960899353,
+                  -0.49425452947616577,
+                  -0.49745744466781616,
+                  -0.17730207741260529,
+                  0,
+                  0,
+                  -0.850742757320404,
+                  -0.6110482811927795,
+                  0.8694239854812622,
+                  0,
+                  -1.1870955228805542,
+                  -0.03170927241444588,
+                  -0.01908383145928383,
+                  -0.1257213056087494,
+                  0,
+                  -0.2448209673166275,
+                  -0.2010475993156433,
+                  -0.0923013687133789,
+                  0,
+                  0,
+                  -0.12829387187957764,
+                  -0.31659120321273804,
+                  -0.16354437172412872,
+                  -0.7114142775535583,
+                  2.306781768798828,
+                  -0.5877355337142944,
+                  -0.01908383145928383,
+                  -0.1257213056087494,
+                  -0.22831542789936066,
+                  -0.12623897194862366,
+                  -0.12623897194862366,
+                  -0.21250797808170319,
+                  -0.17422641813755035,
+                  -0.08994417637586594,
+                  -0.08428224176168442,
+                  -0.20905394852161407,
+                  0,
+                  0,
+                  -0.0651504397392273,
+                  -0.0651504397392273,
+                  -0.0651504397392273,
+                  -0.0651504397392273,
+                  0,
+                  -0.05896122753620148,
+                  -0.2067105770111084,
+                  -0.1133798360824585,
+                  -0.1133798360824585,
+                  -0.37237343192100525,
+                  -0.34848085045814514,
+                  -0.34848085045814514,
+                  3.097198247909546,
+                  3.097198247909546,
+                  6.115390300750732,
+                  3.0181961059570312,
+                  0.8694218993186951,
+                  -0.17730207741260529,
+                  -0.35711753368377686,
+                  -0.25877830386161804,
+                  -0.19064059853553772,
+                  -0.5947467088699341,
+                  -0.5947467088699341,
+                  -0.0923013687133789,
+                  -0.0923013687133789,
+                  -0.0923013687133789,
+                  -0.06494051218032837,
+                  -0.31181374192237854,
+                  -0.1257213056087494,
+                  0,
+                  0,
+                  -0.060745466500520706,
+                  -0.060745466500520706,
+                  -0.24238932132720947,
+                  -0.2375931590795517,
+                  -0.23279710114002228,
+                  -0.1899510622024536,
+                  0.19019465933962365
+                ],
+                [
+                  -1.5802249908447266,
+                  -1.5802916288375854,
+                  -1.1512213945388794,
+                  2.384488344192505,
+                  -1.2679455280303955,
+                  -1.2679455280303955,
+                  -0.2862130403518677,
+                  -2.0640034675598145,
+                  1.788230538368225,
+                  -1.6085777282714844,
+                  3.80989933013916,
+                  -0.04201231151819229,
+                  -0.3435085713863373,
+                  -1.3861937522888184,
+                  -1.3184398412704468,
+                  -1.9496790170669556,
+                  2.498197317123413,
+                  1.0426067113876343,
+                  -1.2954262495040894,
+                  -1.2954262495040894,
+                  -2.165318012237549,
+                  2.2854089736938477,
+                  0,
+                  -1.0382969379425049,
+                  -1.5624010562896729,
+                  -4.087038516998291,
+                  -1.6032507419586182,
+                  1.4551103115081787,
+                  -1.0351811647415161,
+                  -0.5185689926147461,
+                  -0.5185689926147461,
+                  -1.034781575202942,
+                  -1.1067856550216675,
+                  -0.8999805450439453,
+                  -0.20680657029151917,
+                  -1.0345172882080078,
+                  -0.7050838470458984,
+                  -0.7050838470458984,
+                  -0.2591201663017273,
+                  -0.2591201663017273,
+                  -0.2591201663017273,
+                  -0.2591201663017273,
+                  -4.845541000366211,
+                  -0.10475035011768341,
+                  -1.03386390209198,
+                  -0.5176147818565369,
+                  -0.5176147818565369,
+                  -1.0341873168945312,
+                  -0.9008220434188843,
+                  -0.9008220434188843,
+                  -0.16085538268089294,
+                  -0.16085538268089294,
+                  -0.7136250138282776,
+                  -0.5527704358100891,
+                  0,
+                  4.357511043548584,
+                  5.333278179168701,
+                  4.193253993988037,
+                  3.4780468940734863,
+                  4.8408284187316895,
+                  4.8408284187316895,
+                  2.3380374908447266,
+                  2.3380374908447266,
+                  2.3380374908447266,
+                  7.6598920822143555,
+                  11.469036102294922,
+                  -0.06775719672441483,
+                  1.704224944114685,
+                  -0.8651995658874512,
+                  -1.0369958877563477,
+                  -1.0369958877563477,
+                  -1.0738005638122559,
+                  -1.052170991897583,
+                  -1.040366291999817,
+                  -1.0249100923538208,
+                  1.0298504967718056
+                ],
+                [
+                  -1.9147971868515015,
+                  -1.8925966024398804,
+                  -1.893273949623108,
+                  -0.24975140392780304,
+                  -0.19134631752967834,
+                  -0.19134631752967834,
+                  -0.6335545778274536,
+                  -0.4422086179256439,
+                  -0.8821965456008911,
+                  -0.08798493444919586,
+                  -1.3309377431869507,
+                  -0.012463008984923363,
+                  -0.39756667613983154,
+                  -0.3293027877807617,
+                  -0.12385871261358261,
+                  -1.8899694681167603,
+                  -0.3937671482563019,
+                  -0.11024074256420135,
+                  0,
+                  0,
+                  -0.573745846748352,
+                  -0.2530522346496582,
+                  0,
+                  -1.8794634342193604,
+                  -0.4150683283805847,
+                  -0.09103589504957199,
+                  0,
+                  -0.2054441124200821,
+                  -1.8781781196594238,
+                  -0.9511280059814453,
+                  -0.9511280059814453,
+                  -1.87245774269104,
+                  -1.2667734622955322,
+                  -0.639634370803833,
+                  -0.6271389126777649,
+                  -1.869968295097351,
+                  -0.058405082672834396,
+                  -0.058405082672834396,
+                  -0.4725627303123474,
+                  -0.4725627303123474,
+                  -0.4725627303123474,
+                  -0.4725627303123474,
+                  -0.6075118780136108,
+                  -0.34480729699134827,
+                  -1.8678706884384155,
+                  -0.9397706985473633,
+                  -0.9397706985473633,
+                  -1.8662526607513428,
+                  -0.1150837242603302,
+                  -0.1150837242603302,
+                  -0.5182094573974609,
+                  -0.5182094573974609,
+                  -0.8422421813011169,
+                  -0.3240324854850769,
+                  -0.2987183928489685,
+                  0,
+                  0,
+                  0,
+                  -0.11024074256420135,
+                  -0.4978160560131073,
+                  -0.4978160560131073,
+                  -0.11024074256420135,
+                  -0.11024074256420135,
+                  -0.11024074256420135,
+                  -0.5444051027297974,
+                  -1.8644834756851196,
+                  -0.2054441124200821,
+                  0,
+                  0,
+                  0,
+                  0,
+                  10.65180492401123,
+                  10.651738166809082,
+                  10.65166187286377,
+                  -1.8390376567840576,
+                  1.8473208364371128
+                ],
+                [
+                  -0.6215678453445435,
+                  -0.620266318321228,
+                  -0.6200389266014099,
+                  -0.08415946364402771,
+                  -0.06476710736751556,
+                  -0.06476710736751556,
+                  -0.2190038561820984,
+                  -0.15423674881458282,
+                  -0.288796991109848,
+                  -0.03459412232041359,
+                  -0.4369102716445923,
+                  -0.005904362536966801,
+                  -0.11446835845708847,
+                  -0.09435708075761795,
+                  -0.046409234404563904,
+                  -0.6197792887687683,
+                  -0.13431300222873688,
+                  -0.034260448068380356,
+                  0,
+                  0,
+                  -0.17263653874397278,
+                  -0.07701753079891205,
+                  0,
+                  -0.6194804310798645,
+                  -0.13787046074867249,
+                  -0.030999014154076576,
+                  0,
+                  -0.04794785752892494,
+                  -0.6193382143974304,
+                  -0.3109583854675293,
+                  -0.3109583854675293,
+                  -0.6191552877426147,
+                  -0.41474613547325134,
+                  -0.20777985453605652,
+                  -0.20696620643138885,
+                  -0.6189582347869873,
+                  -0.019392361864447594,
+                  -0.019392361864447594,
+                  -0.15550558269023895,
+                  -0.15550558269023895,
+                  -0.15550558269023895,
+                  -0.15550558269023895,
+                  -0.18848612904548645,
+                  -0.10113333910703659,
+                  -0.6187794804573059,
+                  -0.3100734055042267,
+                  -0.3100734055042267,
+                  -0.618550717830658,
+                  -0.02902137115597725,
+                  -0.02902137115597725,
+                  -0.1714082956314087,
+                  -0.1714082956314087,
+                  -0.27827978134155273,
+                  -0.10687155276536942,
+                  -0.09842358529567719,
+                  0,
+                  0,
+                  0,
+                  -0.034260448068380356,
+                  -0.16594554483890533,
+                  -0.16594554483890533,
+                  -0.034260448068380356,
+                  -0.034260448068380356,
+                  -0.034260448068380356,
+                  -0.18283098936080933,
+                  -0.6182199716567993,
+                  -0.04794785752892494,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.6180269122123718,
+                  -0.6178213953971863,
+                  -0.6175963878631592,
+                  11.784602165222168,
+                  0.6245149017104799
                 ]
               ],
               "perceptronSettings": {
@@ -313,6 +2525,242 @@
       ],
       [
         "pt",
+        "Me fala sobre o coronavirus"
+      ],
+      [
+        "pt",
+        "O que é o corona?"
+      ],
+      [
+        "pt",
+        "O que acontece com o coronavirus?"
+      ],
+      [
+        "pt",
+        "O que é o covid-19?"
+      ],
+      [
+        "pt",
+        "O que é ter coronavirus?"
+      ],
+      [
+        "pt",
+        "Tenho coronavirus?"
+      ],
+      [
+        "pt",
+        "Me fala sobre o covid-19"
+      ],
+      [
+        "pt",
+        "Me fala sobre o covid-19"
+      ],
+      [
+        "pt",
+        "quais os sintomas do corona?"
+      ],
+      [
+        "pt",
+        "sintomas do covid-19"
+      ],
+      [
+        "pt",
+        "quais os sintomas do coronavirus?"
+      ],
+      [
+        "pt",
+        "o que a pessoa com corona sente?"
+      ],
+      [
+        "pt",
+        "sintomas"
+      ],
+      [
+        "pt",
+        "sintomas do covid"
+      ],
+      [
+        "pt",
+        "covid sintomas"
+      ],
+      [
+        "pt",
+        "O que fazer em suspeita de corona?"
+      ],
+      [
+        "pt",
+        "Estou com suspeitas de covid-19"
+      ],
+      [
+        "pt",
+        "Acho que estou com corona, o que devo fazer?"
+      ],
+      [
+        "pt",
+        "corona fazer covid"
+      ],
+      [
+        "pt",
+        "covid-19 o que fazer"
+      ],
+      [
+        "pt",
+        "suspeita corona"
+      ],
+      [
+        "pt",
+        "suspeita"
+      ],
+      [
+        "pt",
+        "olá"
+      ],
+      [
+        "pt",
+        "bom dia"
+      ],
+      [
+        "pt",
+        "oi"
+      ],
+      [
+        "pt",
+        "boa tarde"
+      ],
+      [
+        "pt",
+        "boa noite"
+      ],
+      [
+        "pt",
+        "hello"
+      ],
+      [
+        "pt",
+        "boa tarde, pode me ajudar?"
+      ],
+      [
+        "pt",
+        "Opa, qual seu nome?"
+      ],
+      [
+        "pt",
+        "como vai?"
+      ],
+      [
+        "pt",
+        "olá amigo"
+      ],
+      [
+        "pt",
+        "saudações"
+      ],
+      [
+        "pt",
+        "tudo bem?"
+      ],
+      [
+        "pt",
+        "level"
+      ],
+      [
+        "pt",
+        "level ao contrário é level"
+      ],
+      [
+        "pt",
+        "quem criou você"
+      ],
+      [
+        "pt",
+        "de onde você é?"
+      ],
+      [
+        "pt",
+        "de onde você veio?"
+      ],
+      [
+        "pt",
+        "você é de onde?"
+      ],
+      [
+        "pt",
+        "como me prevenir do coronavirus?"
+      ],
+      [
+        "pt",
+        "como não contrair o coronavirus"
+      ],
+      [
+        "pt",
+        "como não contrair o covid-19"
+      ],
+      [
+        "pt",
+        "como não pegar corona?"
+      ],
+      [
+        "pt",
+        "prevenções e profilaxia"
+      ],
+      [
+        "pt",
+        "o que fazer para evitar pegar a doença"
+      ],
+      [
+        "pt",
+        "como previnir"
+      ],
+      [
+        "pt",
+        "quais atitudes devo tomar"
+      ],
+      [
+        "pt",
+        "atitudes"
+      ],
+      [
+        "pt",
+        "o que devo fazer pra não contrair o corona?"
+      ],
+      [
+        "pt",
+        "como não pegar o virus"
+      ],
+      [
+        "pt",
+        "acho que estou com coronavirus"
+      ],
+      [
+        "pt",
+        "estou com covid"
+      ],
+      [
+        "pt",
+        "estou com suspeita de coronavirus"
+      ],
+      [
+        "pt",
+        "acho que tenho coronavirus"
+      ],
+      [
+        "pt",
+        "possuo covid-19, oque fazer?"
+      ],
+      [
+        "pt",
+        "Guilherme"
+      ],
+      [
+        "pt",
+        "Faleiros"
+      ],
+      [
+        "pt",
+        "pai"
+      ],
+      [
+        "pt",
         "coronavirus"
       ],
       [
@@ -325,6 +2773,242 @@
       ],
       [
         "pt",
+        "Me fala sobre o coronavirus"
+      ],
+      [
+        "pt",
+        "O que é o corona?"
+      ],
+      [
+        "pt",
+        "O que acontece com o coronavirus?"
+      ],
+      [
+        "pt",
+        "O que é o covid-19?"
+      ],
+      [
+        "pt",
+        "O que é ter coronavirus?"
+      ],
+      [
+        "pt",
+        "Tenho coronavirus?"
+      ],
+      [
+        "pt",
+        "Me fala sobre o covid-19"
+      ],
+      [
+        "pt",
+        "Me fala sobre o covid-19"
+      ],
+      [
+        "pt",
+        "quais os sintomas do corona?"
+      ],
+      [
+        "pt",
+        "sintomas do covid-19"
+      ],
+      [
+        "pt",
+        "quais os sintomas do coronavirus?"
+      ],
+      [
+        "pt",
+        "o que a pessoa com corona sente?"
+      ],
+      [
+        "pt",
+        "sintomas"
+      ],
+      [
+        "pt",
+        "sintomas do covid"
+      ],
+      [
+        "pt",
+        "covid sintomas"
+      ],
+      [
+        "pt",
+        "O que fazer em suspeita de corona?"
+      ],
+      [
+        "pt",
+        "Estou com suspeitas de covid-19"
+      ],
+      [
+        "pt",
+        "Acho que estou com corona, o que devo fazer?"
+      ],
+      [
+        "pt",
+        "corona fazer covid"
+      ],
+      [
+        "pt",
+        "covid-19 o que fazer"
+      ],
+      [
+        "pt",
+        "suspeita corona"
+      ],
+      [
+        "pt",
+        "suspeita"
+      ],
+      [
+        "pt",
+        "olá"
+      ],
+      [
+        "pt",
+        "bom dia"
+      ],
+      [
+        "pt",
+        "oi"
+      ],
+      [
+        "pt",
+        "boa tarde"
+      ],
+      [
+        "pt",
+        "boa noite"
+      ],
+      [
+        "pt",
+        "hello"
+      ],
+      [
+        "pt",
+        "boa tarde, pode me ajudar?"
+      ],
+      [
+        "pt",
+        "Opa, qual seu nome?"
+      ],
+      [
+        "pt",
+        "como vai?"
+      ],
+      [
+        "pt",
+        "olá amigo"
+      ],
+      [
+        "pt",
+        "saudações"
+      ],
+      [
+        "pt",
+        "tudo bem?"
+      ],
+      [
+        "pt",
+        "level"
+      ],
+      [
+        "pt",
+        "level ao contrário é level"
+      ],
+      [
+        "pt",
+        "quem criou você"
+      ],
+      [
+        "pt",
+        "de onde você é?"
+      ],
+      [
+        "pt",
+        "de onde você veio?"
+      ],
+      [
+        "pt",
+        "você é de onde?"
+      ],
+      [
+        "pt",
+        "como me prevenir do coronavirus?"
+      ],
+      [
+        "pt",
+        "como não contrair o coronavirus"
+      ],
+      [
+        "pt",
+        "como não contrair o covid-19"
+      ],
+      [
+        "pt",
+        "como não pegar corona?"
+      ],
+      [
+        "pt",
+        "prevenções e profilaxia"
+      ],
+      [
+        "pt",
+        "o que fazer para evitar pegar a doença"
+      ],
+      [
+        "pt",
+        "como previnir"
+      ],
+      [
+        "pt",
+        "quais atitudes devo tomar"
+      ],
+      [
+        "pt",
+        "atitudes"
+      ],
+      [
+        "pt",
+        "o que devo fazer pra não contrair o corona?"
+      ],
+      [
+        "pt",
+        "como não pegar o virus"
+      ],
+      [
+        "pt",
+        "acho que estou com coronavirus"
+      ],
+      [
+        "pt",
+        "estou com covid"
+      ],
+      [
+        "pt",
+        "estou com suspeita de coronavirus"
+      ],
+      [
+        "pt",
+        "acho que tenho coronavirus"
+      ],
+      [
+        "pt",
+        "possuo covid-19, oque fazer?"
+      ],
+      [
+        "pt",
+        "Guilherme"
+      ],
+      [
+        "pt",
+        "Faleiros"
+      ],
+      [
+        "pt",
+        "pai"
+      ],
+      [
+        "pt",
         "coronavirus"
       ],
       [
@@ -337,99 +3021,239 @@
       ],
       [
         "pt",
-        "coronavirus"
+        "Me fala sobre o coronavirus"
       ],
       [
         "pt",
-        "covid-19"
+        "O que é o corona?"
       ],
       [
         "pt",
-        "corona"
+        "O que acontece com o coronavirus?"
       ],
       [
         "pt",
-        "coronavirus"
+        "O que é o covid-19?"
       ],
       [
         "pt",
-        "covid-19"
+        "O que é ter coronavirus?"
       ],
       [
         "pt",
-        "corona"
+        "Tenho coronavirus?"
       ],
       [
         "pt",
-        "coronavirus"
+        "Me fala sobre o covid-19"
       ],
       [
         "pt",
-        "covid-19"
+        "Me fala sobre o covid-19"
       ],
       [
         "pt",
-        "corona"
+        "quais os sintomas do corona?"
       ],
       [
         "pt",
-        "coronavirus"
+        "sintomas do covid-19"
       ],
       [
         "pt",
-        "covid-19"
+        "quais os sintomas do coronavirus?"
       ],
       [
         "pt",
-        "corona"
+        "o que a pessoa com corona sente?"
       ],
       [
         "pt",
-        "coronavirus"
+        "sintomas"
       ],
       [
         "pt",
-        "covid-19"
+        "sintomas do covid"
       ],
       [
         "pt",
-        "corona"
+        "covid sintomas"
       ],
       [
         "pt",
-        "coronavirus"
+        "O que fazer em suspeita de corona?"
       ],
       [
         "pt",
-        "covid-19"
+        "Estou com suspeitas de covid-19"
       ],
       [
         "pt",
-        "corona"
+        "Acho que estou com corona, o que devo fazer?"
       ],
       [
         "pt",
-        "coronavirus"
+        "corona fazer covid"
       ],
       [
         "pt",
-        "covid-19"
+        "covid-19 o que fazer"
       ],
       [
         "pt",
-        "corona"
+        "suspeita corona"
       ],
       [
         "pt",
-        "coronavirus"
+        "suspeita"
       ],
       [
         "pt",
-        "covid-19"
+        "olá"
       ],
       [
         "pt",
-        "corona"
+        "bom dia"
+      ],
+      [
+        "pt",
+        "oi"
+      ],
+      [
+        "pt",
+        "boa tarde"
+      ],
+      [
+        "pt",
+        "boa noite"
+      ],
+      [
+        "pt",
+        "hello"
+      ],
+      [
+        "pt",
+        "boa tarde, pode me ajudar?"
+      ],
+      [
+        "pt",
+        "Opa, qual seu nome?"
+      ],
+      [
+        "pt",
+        "como vai?"
+      ],
+      [
+        "pt",
+        "olá amigo"
+      ],
+      [
+        "pt",
+        "saudações"
+      ],
+      [
+        "pt",
+        "tudo bem?"
+      ],
+      [
+        "pt",
+        "level"
+      ],
+      [
+        "pt",
+        "level ao contrário é level"
+      ],
+      [
+        "pt",
+        "quem criou você"
+      ],
+      [
+        "pt",
+        "de onde você é?"
+      ],
+      [
+        "pt",
+        "de onde você veio?"
+      ],
+      [
+        "pt",
+        "você é de onde?"
+      ],
+      [
+        "pt",
+        "como me prevenir do coronavirus?"
+      ],
+      [
+        "pt",
+        "como não contrair o coronavirus"
+      ],
+      [
+        "pt",
+        "como não contrair o covid-19"
+      ],
+      [
+        "pt",
+        "como não pegar corona?"
+      ],
+      [
+        "pt",
+        "prevenções e profilaxia"
+      ],
+      [
+        "pt",
+        "o que fazer para evitar pegar a doença"
+      ],
+      [
+        "pt",
+        "como previnir"
+      ],
+      [
+        "pt",
+        "quais atitudes devo tomar"
+      ],
+      [
+        "pt",
+        "atitudes"
+      ],
+      [
+        "pt",
+        "o que devo fazer pra não contrair o corona?"
+      ],
+      [
+        "pt",
+        "como não pegar o virus"
+      ],
+      [
+        "pt",
+        "acho que estou com coronavirus"
+      ],
+      [
+        "pt",
+        "estou com covid"
+      ],
+      [
+        "pt",
+        "estou com suspeita de coronavirus"
+      ],
+      [
+        "pt",
+        "acho que tenho coronavirus"
+      ],
+      [
+        "pt",
+        "possuo covid-19, oque fazer?"
+      ],
+      [
+        "pt",
+        "Guilherme"
+      ],
+      [
+        "pt",
+        "Faleiros"
+      ],
+      [
+        "pt",
+        "pai"
       ]
     ]
   },
@@ -450,6 +3274,41 @@
         "covid.def": [
           {
             "answer": "O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus que nunca havia sido identificado em humanos."
+          }
+        ],
+        "covid.sint": [
+          {
+            "answer": "Dor de garganta, tosse, febre e dificuldade para respirar (em casos graves)"
+          }
+        ],
+        "covid.action": [
+          {
+            "answer": "Assim que os primeiros sintomas surgirem, é fundamental procurar ajuda médica imediata para confirmar diagnóstico e iniciar o tratamento. Por enquanto, não existe um tratamento específico para infecções causadas por coronavírus. O Ministério da Saúde indicado repouso e consumo de bastante água, além de algumas medidas adotadas para aliviar os sintomas, com antitérmicos e analgésicos."
+          }
+        ],
+        "saudacao": [
+          {
+            "answer": "Olá, eu sou o Tróia! Sou o bot criado pela Level 5 para ajudar você contra o covid-19!"
+          }
+        ],
+        "level": [
+          {
+            "answer": "Você disse Level? Level ao contrário é Level, sabia?"
+          }
+        ],
+        "criaçao": [
+          {
+            "answer": "Eu fui criado pelo time de Pesquisa e Desenvolvimento da Level 5!"
+          }
+        ],
+        "prevencao": [
+          {
+            "answer": "Lave as mãos com água e sabão ou use álcool em gel, cubra o nariz e boca ao espirrar ou tossir e evite aglomerações se estiver doente."
+          }
+        ],
+        "paternidade": [
+          {
+            "answer": "Guilherme Faleiros é meu papai"
           }
         ]
       }
